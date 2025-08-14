@@ -42,3 +42,4 @@ This project served as an entry level project for getting a better understanding
   d. Join to the domain
 9. Log into client 1 with one of the domain account
 
+<a href="https://lucid.app/lucidspark/c160ad66-f0d4-4f8a-a670-056dfa1392a9/edit?viewport_loc=-4092%2C-1642%2C7115%2C3219%2C0_0&invitationId=inv_244ca1dd-0643-498d-891b-d352ef4b7589">Network Diagram</a>
