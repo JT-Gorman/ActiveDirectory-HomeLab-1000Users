@@ -3,7 +3,7 @@ First active directory homelab project
 # ActiveDirectory Homelab 1k Users
 
 ## Objective
-This project served as an entry level project for getting a better understanding of Windows Server 2019 and Active Directory. The lab was conducted in a VirtualBox environment. The environment contained a Windows Server 2019 virtual machine (VM) as the domain controller and a separate Windows 10 VM which served as a client machine to verify user account funcitonality. For networking, I configured Network Address Translation (NAT) and routing for internal and external network access, and enabled Dynamic Host Configuration Protocol (DHCP) for automatic IP assignment. To create a simulated AD environment, I used a PowerShell script that automated the creation of 1,000 user accounts. Through this lab I gained experience in Windows Server administration, AD management, networking, and automation using PowerShell. I also gained a better understanding of Active Directory and how domain controllers operate. 
+This project served as an entry-level project for getting a better understanding of Windows Server 2019 and Active Directory. The lab was conducted in a VirtualBox environment. The environment contained a Windows Server 2019 virtual machine (VM) as the domain controller and a separate Windows 10 VM which served as a client machine to verify user account functionality. For networking, I configured Network Address Translation (NAT) and routing for internal and external network access, and enabled Dynamic Host Configuration Protocol (DHCP) for automatic IP assignment. To create a simulated AD environment, I used a PowerShell script that automated the creation of 1,000 user accounts. Through this lab I gained experience in Windows Server administration, AD management, networking, and automation using PowerShell. I also gained a better understanding of Active Directory and how domain controllers operate. 
 
 
 ### Skills Learned
@@ -34,7 +34,7 @@ This project served as an entry level project for getting a better understanding
 6. Setup DHCP on the domain controller
   a. Windows 10 machine will automatically get an IP address
 7. Create 1k users in AD
-  a. Run a powershell script on the domain controller for this
+  a. Run a PowerShell script on the domain controller for this
 8. Create another VM
   a. Install Win10
   b. This will be connected to the private virtual box network
